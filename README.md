@@ -2,6 +2,8 @@
 
 A collection of reusable Product Management templates, frameworks, and methods for Product Managers working with Claude Code and other AI tools.
 
+Credit to Carl Vellotti (https://www.linkedin.com/in/carlvellotti/) for inspiration of this from his Claude Code for PMs course (https://ccforpms.com/)
+
 ## 📁 Repository Structure
 
 ```
