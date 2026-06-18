@@ -108,6 +108,30 @@ Ready-to-use templates for common Product Management tasks. Copy these templates
 
 ---
 
+### TEMPLATE-survey-design.md
+**Purpose:** Design short, high-completion surveys that yield actionable signal without burning through respondent goodwill.
+
+**When to use:** Before sending any customer or user survey. Covers PMF measurement, feature feedback, ROI benchmarking, or any structured customer feedback need. Use this first, then use `TEMPLATE-survey-analysis.md` to analyze the results.
+
+**Framework sources:** ProfitWell analysis of 5M+ SaaS customer surveys (Patrick Campbell) and Sean Ellis's product-market fit methodology.
+
+**Key Features:**
+- Fill-in template for invite copy and questions
+- ProfitWell core rules (under 1 minute, no lazy questions, force decisions not ratings)
+- Complete Sean Ellis PMF survey format with interpretation guide
+- Pre-send checklist
+
+**Structure:**
+- Survey goal and audience
+- Invite copy
+- Question slots (up to 4, with "choice + why" open-ended pattern)
+- What you will do with the results
+- Core rules from ProfitWell
+- Sean Ellis PMF survey (questions, interpretation, full example)
+- Pre-send checklist
+
+---
+
 ## 🎯 Frameworks
 
 Strategic frameworks for product thinking and decision-making.
@@ -218,6 +242,7 @@ Product management methods and techniques for structured thinking and decision-m
 - **Writing a PRD?** → Use `Product-Thesis-PRD-Template.md`
 - **Analyzing experiment results?** → Use `TEMPLATE-ab-test-analysis.md`
 - **Estimating feature impact?** → Use `TEMPLATE-roi-impact-estimation.md`
+- **Designing a survey?** → Use `TEMPLATE-survey-design.md`
 - **Analyzing survey data?** → Use `TEMPLATE-survey-analysis.md`
 - **Evaluating product strategy?** → Use frameworks (DHM, Rumelt, SWOT)
 - **Validating a strategy?** → Use `devils-advocate-strategy.md`
@@ -258,5 +283,5 @@ These templates are provided as-is for use in your Product Management work. Feel
 
 ---
 
-**Last Updated:** January 2025
+**Last Updated:** 2026-06-17
 
