@@ -17,7 +17,7 @@ The draft is for **tomorrow's meeting**, not today's.
 ### 1b: Check if the file already exists
 
 Daily sync files are organized in monthly subfolders. Look for:
-`/Users/jason-ito/Ito AI Cursor/PM/planning/daily-syncs/[YYYY-MM]/[TARGET-DATE]-barron-jason-sync-draft.md`
+`[WORKSPACE]/planning/daily-syncs/[YYYY-MM]/[TARGET-DATE]-executive-product-sync-draft.md`
 
 - If it exists: stop, tell product lead, show the path.
 - If it does not exist: proceed.
@@ -52,7 +52,7 @@ If a source is unavailable or returns nothing after the required retry, say so i
 
 ### 1d: Write the file
 
-Create at `/Users/jason-ito/Ito AI Cursor/PM/planning/daily-syncs/[YYYY-MM]/[TARGET-DATE]-barron-jason-sync-draft.md` using this exact format:
+Create at `[WORKSPACE]/planning/daily-syncs/[YYYY-MM]/[TARGET-DATE]-executive-product-sync-draft.md` using this exact format:
 
 ```
 # [Weekday], [Month DD, YYYY]: Executive <> Product Lead Sync Draft
@@ -130,7 +130,7 @@ Tell product lead the draft is ready, give one line per bullet summarizing what'
 
 Do not use what you generated. product lead will have edited it. The file is the source of truth; push word for word.
 
-File: `/Users/jason-ito/Ito AI Cursor/PM/planning/daily-syncs/[YYYY-MM]/[TARGET-DATE]-barron-jason-sync-draft.md`
+File: `[WORKSPACE]/planning/daily-syncs/[YYYY-MM]/[TARGET-DATE]-executive-product-sync-draft.md`
 
 ### 2b: Insert at the TOP of the Notion page
 
@@ -179,7 +179,7 @@ The following cursor rule files are relevant to the files you just read:
 product lead's PM operating system. Key subfolders: `planning/` (daily syncs, briefs, meeting prep, tickets), `templates/` (reusable formats), `research/`, `weekly-reviews/`, `discovery/`, `tickets/`.
 
 Always check `templates/` before creating any doc from scratch. Key templates:
-- `daily-barron-jason-sync/` - daily async update to executive (draft for next business day; Friday = Monday)
+- `daily-executive-product-sync/` - daily async update to executive (draft for next business day; Friday = Monday)
 - `github-issue-template-august-2026.md` - ticket structure for qaito and ito-web
 - `memo-writing-style.md` - tone and structure for memos and briefs
 - `weekly-review-templates.md` and `weekly-sales-call-dossier-template.md`
